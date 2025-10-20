@@ -6,8 +6,8 @@ body {
 
 header {
     background-color: #173300;
-    color: white;
-    padding: 1em;
+    color: #fff;
+    padding: 1rem 0;
 }
 
 header nav ul {
@@ -61,10 +61,8 @@ h2 {
 
 footer {
     background-color: #173300;
-    color: white;
+    color: #ccc;
     text-align: center;
-    padding: 1em;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+    padding: 1rem 0;
+    margin-top: 2rem;
 }
