@@ -19,7 +19,7 @@ body {
 }
 .container1 {
   width: 90%;
-  max-width: 1200px;
+  max-width:50px;
   margin: auto;
   align-content: center;
   display: flex;
